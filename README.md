@@ -6,11 +6,11 @@ To develop a neural network regression model for the given dataset.
 
 ## THEORY
 
-Explain the problem statement
+In the context of developing a neural network regression model for a given dataset, the theoretical framework entails the optimization of a multi-layered architecture wherein the objective function, typically a loss function such as mean squared error, is minimized through gradient-based methods. This involves the utilization of backpropagation algorithms to update synaptic weights iteratively, thereby facilitating the model's capacity to approximate continuous-valued outputs with high fidelity. The efficacy of the model is contingent upon the meticulous selection of hyperparameters, regularization techniques, and the architecture's depth and breadth, all of which contribute to mitigating overfitting and enhancing generalization performance.
 
 ## Neural Network Model
 
-Include the neural network model diagram.
+![alt text](image.png)
 
 ## DESIGN STEPS
 
