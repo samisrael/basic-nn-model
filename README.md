@@ -10,7 +10,7 @@ In the context of developing a neural network regression model for a given datas
 
 ## Neural Network Model
 
-![alt text](image.png)
+![image](./images/image.png)
 
 ## DESIGN STEPS
 
